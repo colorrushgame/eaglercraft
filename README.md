@@ -8,15 +8,12 @@
   <strong>Play here: <a href="https://brain-lines.io/eaglercraft-unblocked">Eaglercraft Unblocked</a></strong></a>
 
   <h3>What is Eaglercraft?</h3>
-  <p>Eaglercraft is a fully browser-based recreation of Minecraft, originally developed by <strong>LAX1DUDE</strong>. Designed to run entirely in HTML5 and JavaScript, it eliminates the need for installation or official Mojang accounts. First launched in 2021, Eaglercraft has rapidly become the go-to alternative for students and users with limited device capabilities—especially those using Chromebooks in school environments.</p>
-
-  <h3>A Timeline of Innovation</h3>
-  <p>The project began with <strong>Eaglercraft 1.5.2</strong>, a lightweight version based on Minecraft Classic. Its primary appeal lies in stability and compatibility with lower-end hardware. In December 2022, development progressed with the release of <strong>EaglercraftX 1.8.8</strong>, bringing singleplayer support, enhanced visuals, smoother combat, and expanded game mechanics into the mix. Both versions are accessible via browser and support community servers for multiplayer play.</p>
+  <p>Eaglercraft is a fully browser-based recreation of Minecraft, originally developed by <strong>LAX1DUDE</strong>. Designed to run entirely in HTML5 and JavaScript, it eliminates the need for installation or official Mojang accounts. First launched in 2021, Eaglercraft has rapidly become the go-to alternative for students and users with limited device capabilities, especially those using Chromebooks in school environments.</p>
 
   </ul>
 
   <h3>Why Eaglercraft Became a Viral Sensation</h3>
-  <p>Eaglercraft's explosive popularity can be traced to its accessibility and social media visibility. On platforms like TikTok and Reddit, players showcase custom servers, mods, and PvP battles—attracting millions of views. Because it’s free-to-play and runs smoothly on school-issued devices, Eaglercraft has become a lunch break staple among students worldwide.</p>
+  <p>Eaglercraft's explosive popularity can be traced to its accessibility and social media visibility. On platforms like TikTok and Reddit, players showcase custom servers, mods, and PvP battles, attracting millions of views. Because it’s free-to-play and runs smoothly on school-issued devices, Eaglercraft has become a lunch break staple among students worldwide.</p>
 
   <h3>How to Play Eaglercraft</h3>
   <p>Getting started is as easy as visiting the official site and selecting a version to play. No installations, no setup. The game is compatible with major browsers like Chrome and Edge. Players can jump into:</p>
